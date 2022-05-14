@@ -1,0 +1,42 @@
+[1mdiff --git a/archivomain.hmtl b/archivomain.hmtl[m
+[1mdeleted file mode 100644[m
+[1mindex e69de29..0000000[m
+[1mdiff --git a/nue.html b/nue.html[m
+[1mdeleted file mode 100644[m
+[1mindex e69de29..0000000[m
+[1mdiff --git a/nuevaramain.html b/nuevaramain.html[m
+[1mdeleted file mode 100644[m
+[1mindex d8e6c6c..0000000[m
+[1m--- a/nuevaramain.html[m
+[1m+++ /dev/null[m
+[36m@@ -1,11 +0,0 @@[m
+[31m-<!DOCTYPE html>[m
+[31m-<html>[m
+[31m-<head>[m
+[31m-	<meta charset="utf-8">[m
+[31m-	<meta name="viewport" content="width=device-width, initial-scale=1">[m
+[31m-	<title>dasda</title>[m
+[31m-</head>[m
+[31m-<body>[m
+[31m-[m
+[31m-</body>[m
+[31m-</html>[m
+\ No newline at end of file[m
+[1mdiff --git a/nuevaramaotro.html b/nuevaramaotro.html[m
+[1mdeleted file mode 100644[m
+[1mindex 4838e87..0000000[m
+[1m--- a/nuevaramaotro.html[m
+[1m+++ /dev/null[m
+[36m@@ -1,11 +0,0 @@[m
+[31m-<!DOCTYPE html>[m
+[31m-<html>[m
+[31m-<head>[m
+[31m-	<meta charset="utf-8">[m
+[31m-	<meta name="viewport" content="width=device-width, initial-scale=1">[m
+[31m-	<title>asssa</title>[m
+[31m-</head>[m
+[31m-<body>[m
+[31m-[m
+[31m-</body>[m
+[31m-</html>[m
+\ No newline at end of file[m
